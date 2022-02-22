@@ -2,6 +2,14 @@
 
 Get the heights by coordinates and write them into the table.
 
+#### Supported table format:
+
+|Format|Support|
+|:----:|:-----:|
+|CSV| ✅ |
+|XLSX| 🚧 |
+
+
 ### Usage:
 
 Up environment:
